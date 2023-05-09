@@ -1,4 +1,4 @@
-# [Puzzle Mania Frontend](https://thriving-bombolone-2f7a29.netlify.app)
+# Puzzle Mania Backend
 
 ## Project Description
 Puzzle Mania is an online soft skill test webiste. I mainly checks the perseverance of the person. User have to guess a word by solving a series of questions which the uer have to answer to complete the game. The questions are based on data structures and algorithms, so Puzzle Mania is perfect for computer science students to check their soft skills.
