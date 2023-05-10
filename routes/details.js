@@ -36,7 +36,9 @@ router.put("/update", async (req, res) => {
       new: true,
     });
     // console.log(doc);
-    res.status(200);
+    res.status(200).json({
+      message: "Updated Successfully",
+    });
   } catch (e) {
     // console.error(e);
     res.status(500).json({
